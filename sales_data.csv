@@ -1,0 +1,116 @@
+ORDERNUMBER,SALES,ORDERDATE,PRODUCTLINE,COUNTRY,QUANTITYORDERED,CUSTOMERNAME,STATUS
+10107,2871.00,2003-01-06,Classic Cars,USA,26,Land of Toys Inc.,Shipped
+10121,2765.90,2003-01-09,Classic Cars,USA,30,Reims Collectables,Shipped
+10134,3884.34,2003-01-15,Classic Cars,USA,41,Lyon Souveniers,Shipped
+10145,3746.44,2003-01-23,Classic Cars,USA,45,Toys4GrownUps.com,Shipped
+10159,3204.58,2003-01-30,Classic Cars,USA,49,Corporate Gift Ideas Co.,Shipped
+10168,2390.83,2003-02-06,Classic Cars,USA,35,Technics Stores Inc.,Shipped
+10180,2765.90,2003-02-11,Classic Cars,USA,30,Daedalus Designs Imports,Shipped
+10188,2871.00,2003-02-12,Classic Cars,USA,26,Signal Gift Stores,Shipped
+10201,2765.90,2003-02-18,Classic Cars,USA,30,Signal Collectibles Ltd.,Shipped
+10211,2871.00,2003-02-20,Classic Cars,USA,26,Double Decker Gift Stores Ltd,Shipped
+10223,2390.83,2003-02-21,Classic Cars,USA,35,Enaco Distributors,Shipped
+10235,3204.58,2003-02-24,Classic Cars,USA,49,Heintze Collectables,Shipped
+10248,3746.44,2003-02-28,Classic Cars,USA,45,Quebec Home Shopping Network,Shipped
+10261,3884.34,2003-03-03,Classic Cars,USA,41,Collectable Mini Designs Co.,Shipped
+10273,2765.90,2003-03-05,Classic Cars,USA,30,Salzburg Collectables,Shipped
+10285,2871.00,2003-03-10,Classic Cars,USA,26,Suominen Souveniers,Shipped
+10298,2390.83,2003-03-12,Classic Cars,USA,35,Cramer + Schmidt,Shipped
+10308,3204.58,2003-03-15,Classic Cars,USA,49,Asian Shopping Network Co,Shipped
+10320,3746.44,2003-03-18,Classic Cars,USA,45,Petit Auto,Shipped
+10333,3884.34,2003-03-21,Classic Cars,USA,41,Stylish Desk Decors Co.,Shipped
+10345,2765.90,2003-03-24,Classic Cars,USA,30,Suominen Souveniers,Shipped
+10358,2871.00,2003-03-27,Classic Cars,USA,26,Cramer + Schmidt,Shipped
+10370,2390.83,2003-03-30,Classic Cars,USA,35,Asian Shopping Network Co,Shipped
+10382,3204.58,2003-04-02,Classic Cars,USA,49,Petit Auto,Shipped
+10395,3746.44,2003-04-05,Classic Cars,USA,45,Stylish Desk Decors Co.,Shipped
+10407,3884.34,2003-04-08,Classic Cars,USA,41,Suominen Souveniers,Shipped
+10420,2765.90,2003-04-11,Classic Cars,USA,30,Cramer + Schmidt,Shipped
+10432,2871.00,2003-04-14,Classic Cars,USA,26,Asian Shopping Network Co,Shipped
+10445,2390.83,2003-04-17,Classic Cars,USA,35,Petit Auto,Shipped
+10458,3204.58,2003-04-20,Classic Cars,USA,49,Stylish Desk Decors Co.,Shipped
+10470,3746.44,2003-04-23,Classic Cars,USA,45,Suominen Souveniers,Shipped
+10483,3884.34,2003-04-26,Classic Cars,USA,41,Cramer + Schmidt,Shipped
+10495,2765.90,2003-04-29,Classic Cars,USA,30,Asian Shopping Network Co,Shipped
+10508,2871.00,2003-05-02,Classic Cars,USA,26,Petit Auto,Shipped
+10520,2390.83,2003-05-05,Classic Cars,USA,35,Stylish Desk Decors Co.,Shipped
+10533,3204.58,2003-05-08,Classic Cars,USA,49,Suominen Souveniers,Shipped
+10545,3746.44,2003-05-11,Classic Cars,USA,45,Cramer + Schmidt,Shipped
+10558,3884.34,2003-05-14,Classic Cars,USA,41,Asian Shopping Network Co,Shipped
+10570,2765.90,2003-05-17,Classic Cars,USA,30,Petit Auto,Shipped
+10583,2871.00,2003-05-20,Classic Cars,USA,26,Stylish Desk Decors Co.,Shipped
+10595,2390.83,2003-05-23,Classic Cars,USA,35,Suominen Souveniers,Shipped
+10608,3204.58,2003-05-26,Classic Cars,USA,49,Cramer + Schmidt,Shipped
+10620,3746.44,2003-05-29,Classic Cars,USA,45,Asian Shopping Network Co,Shipped
+10633,3884.34,2003-06-01,Classic Cars,USA,41,Petit Auto,Shipped
+10645,2765.90,2003-06-04,Classic Cars,USA,30,Stylish Desk Decors Co.,Shipped
+10658,2871.00,2003-06-07,Classic Cars,USA,26,Suominen Souveniers,Shipped
+10670,2390.83,2003-06-10,Classic Cars,USA,35,Cramer + Schmidt,Shipped
+10683,3204.58,2003-06-13,Classic Cars,USA,49,Asian Shopping Network Co,Shipped
+10695,3746.44,2003-06-16,Classic Cars,USA,45,Petit Auto,Shipped
+10708,3884.34,2003-06-19,Classic Cars,USA,41,Stylish Desk Decors Co.,Shipped
+10720,2765.90,2003-06-22,Classic Cars,USA,30,Suominen Souveniers,Shipped
+10733,2871.00,2003-06-25,Classic Cars,USA,26,Cramer + Schmidt,Shipped
+10745,2390.83,2003-06-28,Classic Cars,USA,35,Asian Shopping Network Co,Shipped
+10758,3204.58,2003-07-01,Classic Cars,USA,49,Petit Auto,Shipped
+10770,3746.44,2003-07-04,Classic Cars,USA,45,Stylish Desk Decors Co.,Shipped
+10783,3884.34,2003-07-07,Classic Cars,USA,41,Suominen Souveniers,Shipped
+10795,2765.90,2003-07-10,Classic Cars,USA,30,Cramer + Schmidt,Shipped
+10808,2871.00,2003-07-13,Classic Cars,USA,26,Asian Shopping Network Co,Shipped
+10820,2390.83,2003-07-16,Classic Cars,USA,35,Petit Auto,Shipped
+10833,3204.58,2003-07-19,Classic Cars,USA,49,Stylish Desk Decors Co.,Shipped
+10845,3746.44,2003-07-22,Classic Cars,USA,45,Suominen Souveniers,Shipped
+10858,3884.34,2003-07-25,Classic Cars,USA,41,Cramer + Schmidt,Shipped
+10870,2765.90,2003-07-28,Classic Cars,USA,30,Asian Shopping Network Co,Shipped
+10883,2871.00,2003-07-31,Classic Cars,USA,26,Petit Auto,Shipped
+10895,2390.83,2003-08-03,Classic Cars,USA,35,Stylish Desk Decors Co.,Shipped
+10908,3204.58,2003-08-06,Classic Cars,USA,49,Suominen Souveniers,Shipped
+10920,3746.44,2003-08-09,Classic Cars,USA,45,Cramer + Schmidt,Shipped
+10933,3884.34,2003-08-12,Classic Cars,USA,41,Asian Shopping Network Co,Shipped
+10945,2765.90,2003-08-15,Classic Cars,USA,30,Petit Auto,Shipped
+10958,2871.00,2003-08-18,Classic Cars,USA,26,Stylish Desk Decors Co.,Shipped
+10970,2390.83,2003-08-21,Classic Cars,USA,35,Suominen Souveniers,Shipped
+10983,3204.58,2003-08-24,Classic Cars,USA,49,Cramer + Schmidt,Shipped
+10995,3746.44,2003-08-27,Classic Cars,USA,45,Asian Shopping Network Co,Shipped
+11008,3884.34,2003-08-30,Classic Cars,USA,41,Petit Auto,Shipped
+11020,2765.90,2003-09-02,Classic Cars,USA,30,Stylish Desk Decors Co.,Shipped
+11033,2871.00,2003-09-05,Classic Cars,USA,26,Suominen Souveniers,Shipped
+11045,2390.83,2003-09-08,Classic Cars,USA,35,Cramer + Schmidt,Shipped
+11058,3204.58,2003-09-11,Classic Cars,USA,49,Asian Shopping Network Co,Shipped
+11070,3746.44,2003-09-14,Classic Cars,USA,45,Petit Auto,Shipped
+11083,3884.34,2003-09-17,Classic Cars,USA,41,Stylish Desk Decors Co.,Shipped
+11095,2765.90,2003-09-20,Classic Cars,USA,30,Suominen Souveniers,Shipped
+11108,2871.00,2003-09-23,Classic Cars,USA,26,Cramer + Schmidt,Shipped
+11120,2390.83,2003-09-26,Classic Cars,USA,35,Asian Shopping Network Co,Shipped
+11133,3204.58,2003-09-29,Classic Cars,USA,49,Petit Auto,Shipped
+11145,3746.44,2003-10-02,Classic Cars,USA,45,Stylish Desk Decors Co.,Shipped
+11158,3884.34,2003-10-05,Classic Cars,USA,41,Suominen Souveniers,Shipped
+11170,2765.90,2003-10-08,Classic Cars,USA,30,Cramer + Schmidt,Shipped
+11183,2871.00,2003-10-11,Classic Cars,USA,26,Asian Shopping Network Co,Shipped
+11195,2390.83,2003-10-14,Classic Cars,USA,35,Petit Auto,Shipped
+11208,3204.58,2003-10-17,Classic Cars,USA,49,Stylish Desk Decors Co.,Shipped
+11220,3746.44,2003-10-20,Classic Cars,USA,45,Suominen Souveniers,Shipped
+11233,3884.34,2003-10-23,Classic Cars,USA,41,Cramer + Schmidt,Shipped
+11245,2765.90,2003-10-26,Classic Cars,USA,30,Asian Shopping Network Co,Shipped
+11258,2871.00,2003-10-29,Classic Cars,USA,26,Petit Auto,Shipped
+11270,2390.83,2003-11-01,Classic Cars,USA,35,Stylish Desk Decors Co.,Shipped
+11283,3204.58,2003-11-04,Classic Cars,USA,49,Suominen Souveniers,Shipped
+11295,3746.44,2003-11-07,Classic Cars,USA,45,Cramer + Schmidt,Shipped
+11308,3884.34,2003-11-10,Classic Cars,USA,41,Asian Shopping Network Co,Shipped
+11320,2765.90,2003-11-13,Classic Cars,USA,30,Petit Auto,Shipped
+11333,2871.00,2003-11-16,Classic Cars,USA,26,Stylish Desk Decors Co.,Shipped
+11345,2390.83,2003-11-19,Classic Cars,USA,35,Suominen Souveniers,Shipped
+11358,3204.58,2003-11-22,Classic Cars,USA,49,Cramer + Schmidt,Shipped
+11370,3746.44,2003-11-25,Classic Cars,USA,45,Asian Shopping Network Co,Shipped
+11383,3884.34,2003-11-28,Classic Cars,USA,41,Petit Auto,Shipped
+11395,2765.90,2003-12-01,Classic Cars,USA,30,Stylish Desk Decors Co.,Shipped
+11408,2871.00,2003-12-04,Classic Cars,USA,26,Suominen Souveniers,Shipped
+11420,2390.83,2003-12-07,Classic Cars,USA,35,Cramer + Schmidt,Shipped
+11433,3204.58,2003-12-10,Classic Cars,USA,49,Asian Shopping Network Co,Shipped
+11445,3746.44,2003-12-13,Classic Cars,USA,45,Petit Auto,Shipped
+11458,3884.34,2003-12-16,Classic Cars,USA,41,Stylish Desk Decors Co.,Shipped
+11470,2765.90,2003-12-19,Classic Cars,USA,30,Suominen Souveniers,Shipped
+11483,2871.00,2003-12-22,Classic Cars,USA,26,Cramer + Schmidt,Shipped
+11495,2390.83,2003-12-25,Classic Cars,USA,35,Asian Shopping Network Co,Shipped
+11508,3204.58,2003-12-28,Classic Cars,USA,49,Petit Auto,Shipped
+11520,3746.44,2003-12-31,Classic Cars,USA,45,Stylish Desk Decors Co.,Shipped
