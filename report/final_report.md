@@ -5,7 +5,7 @@
 **Project Title:** Sales Data Dashboard - A Comprehensive Analytics Platform  
 **Candidate:** Saloni Gupta  
 **Course:** ARYS Assignment 3  
-**Date:** December 2024  
+**Date:** September 22  
 
 ## 2. Abstract
 
